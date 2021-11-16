@@ -1,5 +1,5 @@
 ### Hi there 👋, my name Ahmet Talha
-#### I am a junior Cyber security
+#### I am a junior Cybersecurity
 I'm a student who likes all things about cyber security. Right now ı training myself with any knowledge ı can get.
 ![anime-aesthetic](https://user-images.githubusercontent.com/89981236/141479942-2ad76249-a6ee-4df8-a6ae-8e3b1c5c991e.gif)
 
