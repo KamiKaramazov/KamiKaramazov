@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A passionate Junior Penetration tester from Turkey</h3>
 
-![anime-aesthetic](https://user-images.githubusercontent.com/89981236/141479942-2ad76249-a6ee-4df8-a6ae-8e3b1c5c991e.gif)
+### Now Playing — Spotify 🎧
+<p>
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=11181157186&redirect=true">
+<img src=”[https://spotify-github-profile.vercel.app/api/view.svg?uid=11181157186&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
+</a>
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamikaramazov&label=Profile%20views&color=32b40e&style=flat-square" alt="kamikaramazov" /> </p>
 
